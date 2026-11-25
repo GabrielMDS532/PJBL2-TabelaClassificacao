@@ -4,8 +4,8 @@ Trabalho de Programação Lógica e Funcional da PUCPR. O programa calcula a
 tabela de classificação de um campeonato de futebol a partir dos resultados
 das partidas, que são lidos de um texto.
 
-Integrantes do grupo: Gabriel Mendes da Silva Cardin
-Daniel Jose Pereira
+Integrantes do grupo: Gabriel Mendes da Silva Cardin, 
+Daniel Jose Pereira, 
 Vitor Henrique Juliatto
 
 Ambiente:
